@@ -5,5 +5,7 @@ This is my first attempt at making something like a full game from scratch. No b
 development programs like Unity or GameMaker. It will be done in C, in which I don't know how to
 implement graphics yet, so it will all be text. It will be a text adventure but with RPG elements
 such as a character stats and level-ups, equipment, and a hub. I'm thinking some combination of
-Dark Souls and Oregon Trail. If anybody ever plays this, have fun.
+Dark Souls and Oregon Trail.
+
+Plans changed. No more hub. Linear path, going from town to town.
 
